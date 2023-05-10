@@ -4,7 +4,7 @@ This repository provides a scenario and task for you to go about setting up a fu
 
 ## Scenario
 
-It is time - you have got your first gig as a cloud engineer and the boss has tasked you with creating the production ready network for their new application.
+It is time - you have got your first gig as a cloud engineer working for "TR-NC Inc" and the boss has tasked you with creating the production ready network for their new application.
 
 They want you to focus on making sure the network is fully set up ready to go
 
@@ -26,6 +26,8 @@ These are the messages you got from the boss with some information around the ty
 
 > Oh and one more thing, can you write up the instructions on how you've done it - written as if you had to teach someone else how to do it.
 
+> Oh can you also include instructions for how we remove everything so that we can make sure to manage costs
+
 > Oh sorry just remembered one more thing, we get audited in 2 days - if we don't get this right, we go out of business so #nopressure or anything like that
 
 
@@ -39,7 +41,9 @@ These are the messages you got from the boss with some information around the ty
 
 4. Commit and push your instructions to your forked repository
 
-5. Share your GitHub link to the repository
+5. Make sure you have removed all the infrastructure you have created (You can validate this by making sure the new VPC no longer exists - This is because everything will sit under the VPC so if you're able to delete your new VPC then it means everything underneath it has also been removed)
+
+6. Share your GitHub link to the repository
 
 
 
