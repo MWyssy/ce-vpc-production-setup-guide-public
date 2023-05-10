@@ -6,7 +6,7 @@ This repository provides a scenario and task for you to go about setting up a fu
 
 It is time - you have got your first gig as a cloud engineer and the boss has tasked you with creating the production ready network for their new application.
 
-They want you to focus on making sure the VPC, subnet, internet gateway, route tables and any NAT gateways are all ready to go!
+They want you to focus on making sure the network is fully set up ready to go
 
 You got this 🙌
 
